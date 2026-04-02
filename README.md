@@ -22,23 +22,34 @@
 <a href="https://www.linkedin.com/in/man-singh-27213823a">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
+<a href="https://github.com/mansinghbhagaur">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
+
+---
+
+## 🌐 Live Projects
+
+- 🔗 https://mapmyvyapaar.com/  
+- 🔗 https://panel.mapmyvyapaar.com/  
+- 🔗 https://member.mapmyvyapaar.com/  
 
 ---
 
 ## ⚡ About Me
 
-- 👨‍💻 2+ years of experience in full stack development  
-- 👨‍🏫 Trainer in React.js & JavaScript (practical + industry approach)  
+- 👨‍💻 Full Stack Developer & Trainer with **3+ years of hands-on experience**  
+- 👨‍🏫 Teaching React.js, JavaScript & real-world development practices  
 - 🧠 Strong understanding of frontend architecture & backend systems  
-- 🔧 Focused on building real-world, production-ready applications  
+- 🔧 Focused on building scalable, production-ready applications  
+- 🚀 Worked on live production systems used by real users  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react" height="20"/> React.js • 
 <img src="https://skillicons.dev/icons?i=redux" height="20"/> Redux Toolkit • 
@@ -60,13 +71,12 @@
 ---
 
 ### ⚙️ Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs" height="20"/> Node.js • 
 <img src="https://skillicons.dev/icons?i=express" height="20"/> Express.js • 
 <img src="https://skillicons.dev/icons?i=laravel" height="20"/> Laravel  
 <br/>
-🔗 REST APIs • 🔐 JWT Authentication • 🛡 RBAC  
+🔗 REST APIs • 🔐 JWT Authentication • 🛡 Role-Based Access Control (RBAC)  
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql" height="20"/> MySQL • 
 <img src="https://skillicons.dev/icons?i=mongodb" height="20"/> MongoDB  
@@ -79,7 +89,6 @@
 ---
 
 ### 🧰 Tools & Workflow
-
 <p>
 <img src="https://skillicons.dev/icons?i=git" height="20"/> Git • 
 <img src="https://skillicons.dev/icons?i=github" height="20"/> GitHub • 
@@ -93,66 +102,63 @@
 
 ## 🚀 Projects
 
-### 🔹 Room Dhoondo  
-Full stack application for finding rooms with filters, authentication and dynamic data handling  
+### 🔹 Room Dhoondo (Full Stack)
+- Built a full-stack room finding platform with advanced filters  
+- Implemented authentication and dynamic data handling  
+- Designed scalable backend and responsive UI  
 
-### 🔹 Admin Panel System  
-Complete dashboard with CRUD operations, API integration, role management and structured UI  
+---
 
-### 🔹 Portfolio Website  
-Responsive portfolio with modern UI and animations  
+### 🔹 Admin Panel System
+- Developed admin dashboard with CRUD operations  
+- Implemented role-based access control (RBAC)  
+- Integrated REST APIs and optimized performance  
+
+---
+
+### 🔹 Portfolio Website
+- Built modern responsive portfolio with animations  
+- Focused on performance and clean UI  
 
 ---
 
 ## 💼 Professional Experience
 
-Worked on live production projects at **Technosters Technologies**  
-(Code is private due to company policy)
+### 🏢 Technosters Technologies (Production Work)
+> ⚠️ Code is private due to company policy
+
+---
+
+### 🌐 MapMyVyapaar (Live System)
+- Developed complete backend architecture using Node.js & Express  
+- Built APIs for Admin, Business, Member & Customer Panels  
+- Implemented authentication & RBAC  
+- Optimized performance for real-world usage  
 
 ---
 
 ### 🌐 Services4Home  
-https://services4home.in/
-
-- Built backend APIs using Node.js & Express  
-- Managed database operations and data flow  
-- Improved API structure, performance and response handling  
+- Built backend APIs and handled database operations  
+- Improved performance and API response handling  
 
 ---
 
-### 🌐 MapMyVyapaar  
-https://mapmyvyapaar.com/
+## 🏆 Achievements
 
-- Backend development (Node.js, Express)  
-- Built APIs for multiple modules  
-- Worked across multiple panels:  
-  • Admin Panel  
-  • Business Panel  
-  • Member Panel  
-  • Customer Panel  
-- Implemented authentication & role-based access control  
-- Handled API integration and data management  
-
----
-
-## 🧩 Client Work
-
-### 🔹 Admin Dashboard System  
-React.js frontend, API integration, state management and reusable components  
-
-### 🔹 Property Listing Platform  
-UI development, filtering system, API integration and responsive layouts  
+- 🥇 Best Frontend Employee Award – Technosters Technologies  
+- 👨‍🏫 Trained multiple students in React.js & Full Stack Development  
+- 🚀 Built production-level applications  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mansinghbhagaur&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mansinghbhagaur&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mansinghbhagaur&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=mansinghbhagaur&theme=tokyonight" />
 </p>
 
 ---
@@ -165,19 +171,21 @@ UI development, filtering system, API integration and responsive layouts
 
 ---
 
-## 🎯 What Makes Me Different
+## 🧠 What Makes Me Different
 
-- I don’t just build UI, I understand the complete system  
-- I focus on scalable and maintainable code  
-- I teach what actually works in real-world development  
-- I build with performance and usability in mind  
+- 💡 Full Stack mindset (Frontend + Backend + System Design)  
+- 🚀 Built production-level apps from scratch  
+- 👨‍🏫 Trainer — simplifies complex concepts  
+- ⚡ Focus on performance, scalability & clean architecture  
+- 🎯 Problem solver, not just coder  
 
 ---
 
 ## 📫 Connect With Me
 
-📧 [mansinghbhagaur1@gmail.com](mailto:mansinghbhagaur1@gmail.com)  
+📧 mansinghbhagaur1@gmail.com  
 🔗 https://www.linkedin.com/in/man-singh-27213823a  
+💻 https://github.com/mansinghbhagaur  
 
 ---
 
